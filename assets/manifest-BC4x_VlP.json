@@ -3,12 +3,12 @@
   "name": "I Know PI",
   "icons": [
     {
-      "src": "/pi-192.png",
+      "src": "/i-know-pi/pi-192.png", 
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/pi-512.png",
+      "src": "/i-know-pi/pi-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
